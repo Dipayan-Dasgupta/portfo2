@@ -4,7 +4,7 @@ distlib==0.3.1
 filelock==3.0.12
 Flask==1.1.2
 itsdangerous==1.1.0
-Jinja2==2.11.2
+Jinja2==2.11.3
 MarkupSafe==1.1.1
 pyjokes==0.6.0
 six==1.15.0
